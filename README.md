@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darius!
+# Hi, I'm Darius!
 
 ### IT student @ **[Ensign College](https://www.ensign.edu/)** | Learning cloud through building projects
 
