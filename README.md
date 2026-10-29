@@ -1,6 +1,6 @@
 # Hi, I'm Darius! 👋
 
-### I am a Systems Administration Student @ **[Ensign College](https://www.ensign.edu/)** who loves learning through building. I am actively bridging my academic IT operations background with a deep dive into foundational Computer Science through **[OSSU](https://github.com/ossu/computer-science).**
+### I am a Systems Administration Student @ **[Ensign College](https://www.ensign.edu/)** who loves learning through building. I am actively bridging my academic IT background with a deep dive into foundational Computer Science through **[OSSU](https://github.com/ossu/computer-science).**
 
 
 ## Languages
