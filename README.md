@@ -1,16 +1,7 @@
-# Hi, I'm Darius!
+# Hi, I'm Darius! 👋
 
-### IT student @ **[Ensign College](https://www.ensign.edu/)** | Learning cloud through building projects
+### I am a Systems Administration Student @ **[Ensign College](https://www.ensign.edu/)** who loves learning through building. I am actively bridging my academic IT operations background with a deep dive into foundational Computer Science through **[OSSU](https://github.com/ossu/computer-science).**
 
-- 🔭 I'm currently working on **An Active Directory Home Lab.**
-
-- 🌱 I'm currently learning **Linux sysadmin, networking, and cloud fundamentals.**
-
-- 👯 I'm looking to collaborate on **Beginner-friendly open source, homelab, or cloud/DevOps projects.**
-
-- 🤝 I'm looking for help with **Project ideas, both guided and unguided.**
-
-- 💬 Ask me about **Linux, networking, home labs, and getting started in cloud.**
 
 ## Languages
 
@@ -20,10 +11,13 @@
 
 ## Tools & Platforms
 
+
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
 <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory"/></a>
+<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/></a>
 </p>
 
 ## Projects
@@ -93,7 +87,7 @@
 👉 [See all my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 -->
 
-<p align="left"><em>Projects coming soon. Currently building my Active Directory home lab.</em></p>
+<p align="left"><em>Projects coming soon. Currently building an Active Directory home lab.</em></p>
 
 ## Connect with me
 
