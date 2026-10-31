@@ -28,7 +28,7 @@
      <a href="https://github.com/dariusscotland/active-directory-home-lab">
        <h3>Active Directory Home Lab</h3>
      </a>
-     <p>Built an isolated Active Directory environment using Oracle VirtualBox, Windows Server 2019, and Windows 10 Pro. Configured AD DS, DNS, DHCP, and RRAS/NAT, created 1,000 test user accounts using an existing PowerShell tutorial script, and verified domain joining and user authentication.</p>
+     <p>Built an isolated Active Directory environment using Oracle VirtualBox, Windows Server 2019, and Windows 10 Pro. Configured AD DS, DNS, DHCP, and RRAS/NAT, created 1,000 test user accounts using a PowerShell script, and verified domain joining and user authentication.</p>
      <a href="https://github.com/dariusscotland/active-directory-home-lab">🔗 Repo</a>
      <p><sub>Tags: Windows Server, Active Directory, Networking, PowerShell, VirtualBox</sub></p>
    </td>
