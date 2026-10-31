@@ -22,72 +22,76 @@
 
 ## Projects
 
-<!--
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-one">
-        <img src="assets/project-one.png" alt="Project One" width="100%">
-      </a>
-      <h3>Project One</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-one">🔗 Repo</a>
-      <p><sub>Tags: Linux, AWS, Networking</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-two">
-        <img src="assets/project-two.png" alt="Project Two" width="100%">
-      </a>
-      <h3>Project Two</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-two">🔗 Repo</a>
-      <p><sub>Tags: Cloud, Terraform, Automation</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-three">
-        <img src="assets/project-three.png" alt="Project Three" width="100%">
-      </a>
-      <h3>Project Three</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-three">🔗 Repo</a>
-      <p><sub>Tags: Proxmox, Homelab, Security</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-four">
-        <img src="assets/project-four.png" alt="Project Four" width="100%">
-      </a>
-      <h3>Project Four</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-four">🔗 Repo</a>
-      <p><sub>Tags: Linux, Bash, Automation</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-five">
-        <img src="assets/project-five.png" alt="Project Five" width="100%">
-      </a>
-      <h3>Project Five</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-five">🔗 Repo</a>
-      <p><sub>Tags: Networking, Security</sub></p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/your-username/project-six">
-        <img src="assets/project-six.png" alt="Project Six" width="100%">
-      </a>
-      <h3>Project Six</h3>
-      <p>One or two sentences on what you built.</p>
-      <a href="https://github.com/your-username/project-six">🔗 Repo</a>
-      <p><sub>Tags: Cloud, AWS</sub></p>
-    </td>
-  </tr>
+ <tr>
+   <td align="center" width="33%">
+     <a href="https://github.com/dariusscotland/active-directory-home-lab">
+       <h3>Active Directory Home Lab</h3>
+     </a>
+     <p>Built an isolated Active Directory environment using Oracle VirtualBox, Windows Server 2019, and Windows 10 Pro. Configured AD DS, DNS, DHCP, and RRAS/NAT, created 1,000 test user accounts using an existing PowerShell tutorial script, and verified domain joining and user authentication.</p>
+     <a href="https://github.com/dariusscotland/active-directory-home-lab">🔗 Repo</a>
+     <p><sub>Tags: Windows Server, Active Directory, Networking, PowerShell, VirtualBox</sub></p>
+   </td>
+
+   <!--
+   <td align="center" width="33%">
+     <a href="https://github.com/your-username/project-two">
+       <img src="assets/project-two.png" alt="Project Two" width="100%">
+     </a>
+     <h3>Project Two</h3>
+     <p>One or two sentences on what you built.</p>
+     <a href="https://github.com/your-username/project-two">🔗 Repo</a>
+     <p><sub>Tags: Cloud, Terraform, Automation</sub></p>
+   </td>
+   <td align="center" width="33%">
+     <a href="https://github.com/your-username/project-three">
+       <img src="assets/project-three.png" alt="Project Three" width="100%">
+     </a>
+     <h3>Project Three</h3>
+     <p>One or two sentences on what you built.</p>
+     <a href="https://github.com/your-username/project-three">🔗 Repo</a>
+     <p><sub>Tags: Proxmox, Homelab, Security</sub></p>
+   </td>
+   -->
+ </tr>
+ <!--
+ <tr>
+   <td align="center" width="33%">
+     <a href="https://github.com/your-username/project-four">
+       <img src="assets/project-four.png" alt="Project Four" width="100%">
+     </a>
+     <h3>Project Four</h3>
+     <p>One or two sentences on what you built.</p>
+     <a href="https://github.com/your-username/project-four">🔗 Repo</a>
+     <p><sub>Tags: Linux, Bash, Automation</sub></p>
+   </td>
+   <td align="center" width="33%">
+     <a href="https://github.com/your-username/project-five">
+       <img src="assets/project-five.png" alt="Project Five" width="100%">
+     </a>
+     <h3>Project Five</h3>
+     <p>One or two sentences on what you built.</p>
+     <a href="https://github.com/your-username/project-five">🔗 Repo</a>
+     <p><sub>Tags: Networking, Security</sub></p>
+   </td>
+   <td align="center" width="33%">
+     <a href="https://github.com/your-username/project-six">
+       <img src="assets/project-six.png" alt="Project Six" width="100%">
+     </a>
+     <h3>Project Six</h3>
+     <p>One or two sentences on what you built.</p>
+     <a href="https://github.com/your-username/project-six">🔗 Repo</a>
+     <p><sub>Tags: Cloud, AWS</sub></p>
+   </td>
+ </tr>
+ -->
 </table>
 
+<!--
 👉 [See all my repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
 -->
 
-<p align="left"><em>Projects coming soon. Currently building an Active Directory home lab.</em></p>
+<p align="left"><em>More projects coming soon.</em></p>
 
 ## Connect with me
 
@@ -109,4 +113,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
-
